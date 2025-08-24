@@ -5,7 +5,7 @@ import * as cookieParser from 'cookie-parser';
 async function bootstrap() {
   const app = await NestFactory.create(AppModule);
   const allowedOrigins = [
-    'https://devlog-ai.vercel.app', // deployed frontend
+    'https://devlog-ai-ddxw.vercel.app/', // deployed frontend
     'http://localhost:3000',
   ];
 
