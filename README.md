@@ -1,7 +1,6 @@
 # 🧠 DEVLOG AI
 
 Your Personal Coding Journal with AI Superpowers  
-[Live Demo](https://devlog-ai.vercel.app/) • Frontend on Vercel • Backend & Database on Render
 
 ---
 
@@ -68,7 +67,7 @@ DEVLOG AI is a personal web app that transforms your daily coding notes, bugs, b
 
 1. **Clone & Install**
    ```bash
-   git clone https://github.com/Milin2710/Devlog_AI
+   git clone https://github.com/gaincyst/DevlogAI
    cd devlog-ai
    ```
 
